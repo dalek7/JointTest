@@ -1,5 +1,5 @@
 # JointTest
-Maya Script
+Maya Script 작업했던 것 기록 및 백업 용
 
 A simple mel script written for testing the interface system during 2014.
 
